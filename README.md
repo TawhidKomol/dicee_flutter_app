@@ -1,4 +1,4 @@
-# mi_card_flutter
+# Dice Flutter App
 
 This is a Dice app made with flutter
 
