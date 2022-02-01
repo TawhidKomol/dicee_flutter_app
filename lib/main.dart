@@ -36,7 +36,7 @@ class _DicePageState extends State<DicePage> {
         children: [
           Expanded(
             child: Padding(
-              padding: const EdgeInsets.fromLTRB(14.0, 14.0, 8.0, 14.0),
+              padding: const EdgeInsets.fromLTRB(16.0, 16.0, 8.0, 16.0),
               child: TextButton(
                 onPressed: () {
                   setState(() {
@@ -51,7 +51,7 @@ class _DicePageState extends State<DicePage> {
           ),
           Expanded(
             child: Padding(
-              padding: const EdgeInsets.fromLTRB(8.0, 14.0, 14.0, 14.0),
+              padding: const EdgeInsets.fromLTRB(8.0, 16.0, 16.0, 16.0),
               child: TextButton(
                 onPressed: () {
                   setState(() {
