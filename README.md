@@ -4,7 +4,7 @@ This is a Dice app made with flutter
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/mi_card_flutter/blob/main/images/Screenshot%202022-02-01%20041655.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/dicee_flutter_app/blob/main/images/Screenshot%202022-02-01%20231044.png?raw=true)
 
 
 ##  My Profile Links
